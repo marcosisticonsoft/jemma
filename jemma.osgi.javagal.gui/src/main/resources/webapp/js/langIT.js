@@ -1,5 +1,5 @@
 /**
- Prova Fetch 2
+ * 
  */
 
 var LANG = {
